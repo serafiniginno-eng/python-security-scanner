@@ -16,4 +16,4 @@ Herramienta de auditoría de red de alto rendimiento desarrollada en Python. Est
 ## Guía de Uso
 1. Clonar el repositorio:
 ```bash
-git clone [https://github.com/serafiniginno-eng/python-security-scanner.git](https://github.com/serafiniginno-eng/python-security-scanner.git)
+git clone https://github.com/serafiniginno-eng/python-security-scanner.git
